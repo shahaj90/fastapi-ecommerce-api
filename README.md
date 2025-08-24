@@ -1,5 +1,7 @@
 # FastAPI E-commerce API
 
+![Screenshot](screenshoot.png)
+
 This is a simple e-commerce API built with FastAPI.
 
 ## Features
